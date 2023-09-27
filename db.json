@@ -1,0 +1,77 @@
+{
+  "posts": [
+    {
+      "id": "sky",
+      "name": "Sujeet Yadav",
+      "password": "Sujeet@321",
+      "email": "sujeet@gmail.com",
+      "gender": "male",
+      "role": "quality",
+      "isactive": true
+    },
+    {
+      "id": "sky",
+      "name": "Sujeet Yadav",
+      "password": "Sujeet@321",
+      "email": "sujeet@gmail.com",
+      "gender": "male",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "id": "sky",
+      "name": "Sujeet Yadav",
+      "password": "Sujeet@321",
+      "email": "sujeet@gmail.com",
+      "gender": "male",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "id": "sky",
+      "name": "Sujeet Yadav",
+      "password": "Sujeet@321",
+      "email": "sujeet@gmail.com",
+      "gender": "male",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "id": "sky",
+      "name": "Sujeet Yadav",
+      "password": "Sujeet@321",
+      "email": "sujeet@gmail.com",
+      "gender": "male",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "id": "sky",
+      "name": "Sujeet Yadav",
+      "password": "Sujeet@321",
+      "email": "sujeet@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": true
+    },
+    {
+      "id": "sujeet",
+      "name": "sujeet kumar",
+      "password": "Sujit@4321",
+      "email": "sujeet@gmail.com",
+      "gender": "male",
+      "role": "quality",
+      "isactive": true
+    }
+  ],
+  "role": [
+    {
+      "code": "staff",
+      "name": "Staff"
+    },
+    {
+      "code": "quality",
+      "name": "Quality"
+    }
+  ]
+}
